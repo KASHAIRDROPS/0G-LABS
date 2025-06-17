@@ -11,7 +11,13 @@ A step by step guide on how to Run Og Labs Storage node using Google Cloud Platf
 | OS            | Ubuntu 24.04|
 | Bandwidth     | 500 Mbps    |
 
-## Required Links
+## Step 1: Create a GCP VM
+
+
+## Step 2: Open Required Firewall Ports
+
+
+
 ```
 Add chain claim faucets and get RPC:
 
