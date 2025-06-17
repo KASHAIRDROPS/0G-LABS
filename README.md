@@ -1,14 +1,13 @@
 # OG-Labs
 A step by step guide on how to Run Og Labs Storage node using Google Cloud Platform on Testnet
 
-## System Requirements
+## Hardware Requirements
 
 | Component     | Recommended |
 |---------------|-------------|
 | CPU           | 4+ cores    |
 | RAM           | 16 GB+      |
 | SSD           | 500 GB+     |
-| OS            | Ubuntu 24.04|
 | Bandwidth     | 500 Mbps    |
 
 ## Required links
