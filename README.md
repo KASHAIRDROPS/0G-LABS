@@ -29,11 +29,6 @@ Open these TCP/UDP ports:
 From VPC > Firewall > Create rule:
 
 ```
-Name:       og-storage-node
-Target:     All instances
-Source:     0.0.0.0/0
-Protocols:  tcp:30333,30334,9000
-            udp:30333,30334,9000
 ```
 Add chain claim faucets and get RPC:
 
