@@ -22,7 +22,7 @@ Get RPC: https://www.astrostake.xyz/0g-status
 
 ---
 
-##  Step 3: Install Dependencies
+##  Step 1: Install Dependencies
 
 SSH into the VM and run:
 
@@ -49,7 +49,7 @@ source ~/.bashrc
 ```
 ---
 
-##  Step 4: Clone and Build 0G Storage Node
+##  Step 2: Clone and Build 0G Storage Node
 
 ```bash
 git clone -b v0.8.7 https://github.com/0glabs/0g-storage-node.git
@@ -62,7 +62,7 @@ cargo build --release
 ```
 ---
 
-##  Step 5: Configure the Node
+##  Step 3: Configure the Node
 
 First Install screen 
 ```bash
