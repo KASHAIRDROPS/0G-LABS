@@ -13,10 +13,22 @@ A step by step guide on how to Run Og Labs Storage node using Google Cloud Platf
 
 ## Step 1: Create a GCP VM
 
+1. Go to Google Cloud Console → Compute Engine → VM Instances → Create Instance
+2. Choose:
+   - Machine: e2-standard-4 (or higher)
+   - Boot Disk: Ubuntu 24.04 LTS (500GB+)
+   - Allow HTTP/HTTPS
+3. Click “Create”
 
 ## Step 2: Open Required Firewall Ports
 
+Open these TCP/UDP ports:
 
+- 30333, 30334, 9000
+
+From VPC > Firewall > Create rule:
+
+```
 
 ```
 Add chain claim faucets and get RPC:
