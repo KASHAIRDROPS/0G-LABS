@@ -18,7 +18,7 @@ A step by step guide on how to Run Og Labs Storage node using Google Cloud Platf
 ## Step 2: Open Required Firewall Ports
 
 
-```
+
 
 ```
 Add chain claim faucets and get RPC:
