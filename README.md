@@ -22,11 +22,6 @@ A step by step guide on how to Run Og Labs Storage node using Google Cloud Platf
 
 ## Step 2: Open Required Firewall Ports
 
-Open these TCP/UDP ports:
-
-- 30333, 30334, 9000
-
-From VPC > Firewall > Create rule:
 
 ```
 
