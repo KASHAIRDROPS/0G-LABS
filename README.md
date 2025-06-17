@@ -12,7 +12,7 @@ A step by step guide on how to Run Og Labs Storage node using Google Cloud Platf
 | Bandwidth     | 500 Mbps    |
 
 ## Required links
----
+
 
 
 Add chain claim faucets and get RPC:
