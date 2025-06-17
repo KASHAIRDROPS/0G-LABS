@@ -15,7 +15,6 @@ A step by step guide on how to Run Og Labs Storage node using Google Cloud Platf
 
 
 
-
 Add 0G-Galileo-Testnet chain from here: https://hub.0g.ai/portfolio/token
 
 Take faucet: https://faucet.0g.ai/
