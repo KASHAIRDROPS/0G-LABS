@@ -1,4 +1,4 @@
-# OG-LABS NODE RUN GUIDE
+# 0G-LABS NODE RUN GUIDE
 Run Og Labs Storage Testnet node using Google Cloud VPS
 
 ## Hardware Requirements
