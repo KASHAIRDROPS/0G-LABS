@@ -1,4 +1,4 @@
-# OG-Labs
+# OG-LABS NODE RUN GUIDE
 A step by step guide on how to Run Og Labs Storage node using Google Cloud Platform on Testnet
 
 ## Hardware Requirements
