@@ -98,20 +98,12 @@ curl -o $HOME/0g-storage-node/run/config.toml https://raw.githubusercontent.com/
 
 * Add Your Wallet's Private KEY in without **0X**
 
-* Add new rpc
+* Add new rpc from here: https://www.astrostake.xyz/0g-status
 
 ```
 nano $HOME/0g-storage-node/run/config.toml
 ```
 
-
-
-
-# If u want to change RPC then follow this:
-
-1. get rpc from here - https://www.astrostake.xyz/0g-status
-
-2. Chooose any rpc and edit in the `config.toml` file
 
 
 
