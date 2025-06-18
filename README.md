@@ -21,7 +21,7 @@
 
 * Explorer: https://chainscan-galileo.bangcode.id/ OR https://chainscan-galileo.0g.ai/
 
-* View Miner Rewards: https://storagescan-galileo.0g.ai/miner/"your address"
+* View Miner Rewards: https://storagescan-galileo.0g.ai/miner/ "your address"
 
 
 # Install All Dependecies
