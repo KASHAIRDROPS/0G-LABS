@@ -1,6 +1,6 @@
 #   **OG Storage Node Guide** 
 
-</div>
+
 
 
 
