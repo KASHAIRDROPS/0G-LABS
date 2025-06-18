@@ -96,13 +96,14 @@ curl -o $HOME/0g-storage-node/run/config.toml https://raw.githubusercontent.com/
 ```
 
 
-* Add Your Wallet's Private KEY in without **0X**
-
-* Add new rpc from here: https://www.astrostake.xyz/0g-status
 
 ```
 nano $HOME/0g-storage-node/run/config.toml
 ```
+
+* Add Your Wallet's Private KEY in without **0X**
+
+* Add new rpc from here: https://www.astrostake.xyz/0g-status
 
 
 
