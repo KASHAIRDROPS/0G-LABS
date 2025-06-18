@@ -25,7 +25,7 @@
 * View Miner Rewards: https://storagescan-galileo.0g.ai/miner/"your address"
 
 
-# Install All Require Dependecies
+# Install All Dependecies
 
 ```
 sudo apt-get update && sudo apt-get upgrade -y
@@ -70,7 +70,7 @@ go version
 ```
 
 
-# Clone the Repository
+# Clone Repository
 
 ```
 git clone https://github.com/0glabs/0g-storage-node.git
@@ -117,7 +117,7 @@ nano $HOME/0g-storage-node/run/config.toml
 
 
 
-# Create a Systemd Service File
+# Create Systemd File
 
 ```
 sudo tee /etc/systemd/system/zgs.service > /dev/null <<EOF
@@ -172,7 +172,7 @@ sudo systemctl status zgs
 tail -f ~/0g-storage-node/run/log/zgs.log.$(TZ=UTC date +%Y-%m-%d)
 ```
 
-* Check block & Sync process - Match to the latest block on explorer
+* Check exact block - Match to the latest block on explorer
 
 ```
  while true; do     response=$(curl -s -X POST http://localhost:5678 -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","method":"zgs_getStatus","params":[],"id":1}');     logSyncHeight=$(echo $response | jq '.result.logSyncHeight');     connectedPeers=$(echo $response | jq '.result.connectedPeers');     echo -e "logSyncHeight: \033[32m$logSyncHeight\033[0m, connectedPeers: \033[34m$connectedPeers\033[0m";     sleep 5; done
@@ -181,7 +181,7 @@ tail -f ~/0g-storage-node/run/log/zgs.log.$(TZ=UTC date +%Y-%m-%d)
 
 
 
-# Stop & Delete the service
+# Delete the service
 
 ```
 sudo systemctl stop zgs
