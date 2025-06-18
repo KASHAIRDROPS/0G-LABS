@@ -36,6 +36,10 @@ Take faucet: https://faucet.0g.ai/
 
 Get RPC: https://www.astrostake.xyz/0g-status
 
+Explorer- https://chainscan-galileo.bangcode.id/ OR https://chainscan-galileo.0g.ai/
+
+* View Miner Details- (Add your wallet address at the end of the link): https://storagescan-galileo.0g.ai/miner/
+
 
 # Install All Require Dependecies
 
@@ -207,9 +211,5 @@ rm -rf $HOME/0g-storage-node
 
 
 
-# Explorer & Useful Webs
 
-* Explorer- (View your txs - Paste Your Address): https://chainscan-galileo.bangcode.id/ OR https://chainscan-galileo.0g.ai/
-
-* View Miner Details- (Add your wallet address at the end of the link): https://storagescan-galileo.0g.ai/miner/
 
