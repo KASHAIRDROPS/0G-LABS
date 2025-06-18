@@ -2,6 +2,10 @@
 ---
 
 
+
+
+
+
 # Hardware Requirements
 
 | Component     | Recommended |
