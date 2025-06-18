@@ -27,11 +27,14 @@
 | Bandwidth     | 500 Mbps    |         -                  |
 
 
-# Pre-Requirements 🛠
+# All Required Links
 
-* Add 0G-Galileo-Testnet chain from here: https://docs.0g.ai/run-a-node/testnet-information
 
-* Take faucet: https://faucet.0g.ai/
+Add 0G-Galileo-Testnet chain from here: https://hub.0g.ai/portfolio/token
+
+Take faucet: https://faucet.0g.ai/
+
+Get RPC: https://www.astrostake.xyz/0g-status
 
 
 # Install All Require Dependecies
