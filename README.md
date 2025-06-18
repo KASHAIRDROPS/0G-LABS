@@ -3,6 +3,7 @@
 </div>
 
 
+
 # Device/System Requirements 💻
 
 | Component     | Recommended |
