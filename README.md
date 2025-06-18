@@ -7,7 +7,6 @@
 | CPU           | 4+ cores    |
 | RAM           | 16 GB+      |
 | SSD           | 500 GB+     |
-| OS            | Ubuntu 24.04|
 | Bandwidth     | 500 Mbps    |         -                  |
 
 
