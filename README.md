@@ -97,9 +97,9 @@ curl -o $HOME/0g-storage-node/run/config.toml https://raw.githubusercontent.com/
 ```
 
 
-* Add Your Wallet's Private KEY in `config.toml`, ❗❗Dont Add **0X** before the key:
+* Add Your Wallet's Private KEY in without **0X**
 
--open and go to `miner_key` and add your pvt key:
+* Add new rpc
 
 ```
 nano $HOME/0g-storage-node/run/config.toml
