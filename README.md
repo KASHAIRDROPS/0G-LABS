@@ -1,16 +1,3 @@
-# OG-Storage
-
-
-<div align="left">
-
-#   **Introduction📔**
-
-</div>
-
-
-
-<div align="center">
-
 #   **OG Storage Node Guide** 
 
 </div>
