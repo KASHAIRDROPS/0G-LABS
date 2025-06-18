@@ -18,12 +18,13 @@
 
 # Device/System Requirements 💻
 
-| Components |  Minimum   |  Recommended  |
-|------|-------|-----------|
-| RAM | 32 GB | 32 GB |
-| CPU | 8 CORE | 8 CORE |
-| DISK | 500GB/ 1 TB NVME SSD | Size matches the KV streams it maintains |
-| BANDWIDTH | 100 MBPS (Download/Upload) |         -                  |
+| Component     | Recommended |
+|---------------|-------------|
+| CPU           | 4+ cores    |
+| RAM           | 16 GB+      |
+| SSD           | 500 GB+     |
+| OS            | Ubuntu 24.04|
+| Bandwidth     | 500 Mbps    |         -                  |
 
 
 # Pre-Requirements 🛠
