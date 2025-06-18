@@ -1,11 +1,5 @@
 #   **OG Storage Node Guide** 
 ---
-
-
-
-
-
-
 # Hardware Requirements
 
 | Component     | Recommended |
