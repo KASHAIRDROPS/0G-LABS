@@ -4,7 +4,7 @@
 
 
 
-# Device/System Requirements 💻
+# Hardware Requirements
 
 | Component     | Recommended |
 |---------------|-------------|
